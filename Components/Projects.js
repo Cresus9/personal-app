@@ -1,7 +1,7 @@
 import React from 'react'
 import ProjectItem from './ProjectItem'
 import Image from 'next/image'
-import { project1 } from '../public/assets/project1.jpg'
+// import { project1 } from '../public/assets/project1.jpg'
 
 
 
@@ -14,7 +14,7 @@ export default function Projects() {
             <div className='grid md:grid-cols-2 gap-8'>
                 <ProjectItem 
                 title="Real Estate App"
-                background={project1}
+                // background={project1}
                 />
                  {/* <ProjectItem 
                 title="Wellness Center"
