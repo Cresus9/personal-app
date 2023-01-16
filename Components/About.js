@@ -13,7 +13,7 @@ export default function About() {
                 <p className='py-2 text-gray-600'>When the covid-19 lockdown began, I seized the opportunity to learn coding. 
                 I quickly realized that this was my passion, so I decided to enroll at Flatiron School to become a full stack web developer.
                 Now that I am a confident developer, I am eager to learn and grow with a team. My goal is to be the best developer that I can be and contribute value wherever possible.Please don't hesitate to contact me if you would like to discuss any opportunities.</p>
-                <p className='py-2 text-gray-600 underline cursor-pointer'>Check out some of my latest projects.</p>
+                <p className='py-2 text-gray-600 underline cursor-pointer'>Check out some of my latest projects below.</p>
 
             </div>
             <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
